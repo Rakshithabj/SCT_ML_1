@@ -1,2 +1,1 @@
-# SCT_ML_1-
-Task on house price prediction using Linear Regression 
+This project aims to estimate house prices by analyzing essential features like square footage, the number of bedrooms, and bathrooms. Utilizing Python, a linear regression model is developed and trained on a dataset from Kaggle to provide precise predictions of house prices.
