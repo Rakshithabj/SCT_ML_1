@@ -8,5 +8,5 @@ https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/
 To run this project, we need to insatll the following Python packages:
 - Pandas: For data manipulation and analysis
     '''bash
-  pip install numpy
+  pip install Pandas
 
