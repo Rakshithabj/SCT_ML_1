@@ -25,16 +25,18 @@ To run this project, we need to insatll the following Python packages:
     ```bash
       pip install seaborn
 # Project Structure
-## 1. Data Preprocessing:
+## * Data Preprocessing:
   - Handling missing values
   - Feature scaling and normalization
-## 2. Exploratory Data Analysis (EDA):
+## * Exploratory Data Analysis (EDA):
   - Visualizing relationships between features and the target variable
-## 3. Model Building:
+## * Model Building:
   - Linear Regression using scikit-learn
   - Train-Test split to evaluate model performance
-## 4. Model Evaluation:
+## * Model Evaluation:
   - Root Mean Squared Error(RMSE)
-## 5. Prediction
+## * Prediction
   - Using the trained model to predict house price
+ ## * Result 
+  - using matplotlib module to realise the data trends
 
